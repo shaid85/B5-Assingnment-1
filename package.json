@@ -1,0 +1,12 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "assignment 1",
+  "main": "assignment-1.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-node-dev --respawn --transpile-only assignment-1.ts"
+  },
+  "author": "Md Saidul",
+  "license": "ISC"
+}
